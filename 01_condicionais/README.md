@@ -26,5 +26,5 @@
 
 - [x] **Desafio 1:** 
 - [x] **Desafio 2:** 
-- [ ] **Desafio 3:** 
+- [x] **Desafio 3:** 
 - [ ] **Desafio 4:** 

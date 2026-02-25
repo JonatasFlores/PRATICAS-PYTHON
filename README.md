@@ -4,6 +4,7 @@
     Cada pasta possui um README leia para entender a organização bem como o exercício
     
 ## Conteúdos 
+```text
  - Estruturas Condicionais (if, elif, else)
     01_condicionais/
         ├── README.md             Lista de desafios de condicionais
@@ -21,7 +22,7 @@
         ├── README.md             Lista de desafios de Estrutura de Dados
         ├── exercicio_01.py
         └── exercicio_02.py
-
+```
 ## Próximas Atualizações
 - [ ] Funções e Modularização
 - [ ] Tratamento de Exceções (Try/Except)
